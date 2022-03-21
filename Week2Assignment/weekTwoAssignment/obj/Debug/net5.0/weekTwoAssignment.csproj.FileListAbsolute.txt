@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\bin\Debug\net5.0\weekTwoAssignment.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\bin\Debug\net5.0\weekTwoAssignment.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\bin\Debug\net5.0\weekTwoAssignment.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\bin\Debug\net5.0\weekTwoAssignment.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\bin\Debug\net5.0\weekTwoAssignment.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\bin\Debug\net5.0\weekTwoAssignment.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\refint\weekTwoAssignment.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\weekTwoAssignment.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week2Assignment\weekTwoAssignment\obj\Debug\net5.0\ref\weekTwoAssignment.dll
