@@ -2,7 +2,7 @@
 
 namespace squareMatrixProblem2
 {
-    internal class Program
+    internal class squareMatrixProblem2
     {
         static void Main(string[] args)
         {

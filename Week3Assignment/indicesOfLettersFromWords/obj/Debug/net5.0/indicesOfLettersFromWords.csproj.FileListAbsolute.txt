@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\bin\Debug\net5.0\indicesOfLettersFromWords.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\bin\Debug\net5.0\indicesOfLettersFromWords.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\bin\Debug\net5.0\indicesOfLettersFromWords.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\bin\Debug\net5.0\indicesOfLettersFromWords.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\bin\Debug\net5.0\indicesOfLettersFromWords.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\bin\Debug\net5.0\indicesOfLettersFromWords.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\refint\indicesOfLettersFromWords.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\indicesOfLettersFromWords.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\indicesOfLettersFromWords\obj\Debug\net5.0\ref\indicesOfLettersFromWords.dll
