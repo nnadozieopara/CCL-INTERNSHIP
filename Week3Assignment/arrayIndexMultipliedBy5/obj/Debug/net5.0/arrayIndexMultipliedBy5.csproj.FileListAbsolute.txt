@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\bin\Debug\net5.0\arrayIndexMultipliedBy5.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\bin\Debug\net5.0\arrayIndexMultipliedBy5.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\bin\Debug\net5.0\arrayIndexMultipliedBy5.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\bin\Debug\net5.0\arrayIndexMultipliedBy5.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\bin\Debug\net5.0\arrayIndexMultipliedBy5.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\bin\Debug\net5.0\arrayIndexMultipliedBy5.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\refint\arrayIndexMultipliedBy5.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\arrayIndexMultipliedBy5.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\arrayIndexMultipliedBy5\obj\Debug\net5.0\ref\arrayIndexMultipliedBy5.dll

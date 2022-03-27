@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\bin\Debug\net5.0\squareMatrixProblem1.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\bin\Debug\net5.0\squareMatrixProblem1.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\bin\Debug\net5.0\squareMatrixProblem1.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\bin\Debug\net5.0\squareMatrixProblem1.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\bin\Debug\net5.0\squareMatrixProblem1.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\bin\Debug\net5.0\squareMatrixProblem1.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\refint\squareMatrixProblem1.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\squareMatrixProblem1.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\squareMatrixProblem1\obj\Debug\net5.0\ref\squareMatrixProblem1.dll

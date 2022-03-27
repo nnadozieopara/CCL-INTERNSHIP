@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\bin\Debug\net5.0\equalArrayChecker.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\bin\Debug\net5.0\equalArrayChecker.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\bin\Debug\net5.0\equalArrayChecker.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\bin\Debug\net5.0\equalArrayChecker.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\bin\Debug\net5.0\equalArrayChecker.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\bin\Debug\net5.0\equalArrayChecker.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\refint\equalArrayChecker.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\equalArrayChecker.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\equalArrayChecker\obj\Debug\net5.0\ref\equalArrayChecker.dll

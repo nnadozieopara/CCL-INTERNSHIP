@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\bin\Debug\net5.0\matrixOperations.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\bin\Debug\net5.0\matrixOperations.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\bin\Debug\net5.0\matrixOperations.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\bin\Debug\net5.0\matrixOperations.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\bin\Debug\net5.0\matrixOperations.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\bin\Debug\net5.0\matrixOperations.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\refint\matrixOperations.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\matrixOperations.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\matrixOperations\obj\Debug\net5.0\ref\matrixOperations.dll

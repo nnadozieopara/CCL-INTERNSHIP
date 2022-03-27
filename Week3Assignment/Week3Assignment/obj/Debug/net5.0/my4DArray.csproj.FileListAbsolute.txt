@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\bin\Debug\net5.0\my4DArray.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\bin\Debug\net5.0\my4DArray.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\bin\Debug\net5.0\my4DArray.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\bin\Debug\net5.0\my4DArray.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\bin\Debug\net5.0\my4DArray.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\bin\Debug\net5.0\my4DArray.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\refint\my4DArray.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\my4DArray.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\Week3Assignment\obj\Debug\net5.0\ref\my4DArray.dll

@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\bin\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\bin\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\bin\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\bin\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\bin\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\bin\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\refint\maximalSequenceOfConsecutiveEqualElement.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\maximalSequenceOfConsecutiveEqualElement.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfConsecutiveEqualElement\obj\Debug\net5.0\ref\maximalSequenceOfConsecutiveEqualElement.dll

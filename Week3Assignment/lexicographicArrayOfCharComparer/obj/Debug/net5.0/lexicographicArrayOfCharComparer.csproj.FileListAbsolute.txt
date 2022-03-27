@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\bin\Debug\net5.0\lexicographicArrayOfCharComparer.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\bin\Debug\net5.0\lexicographicArrayOfCharComparer.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\bin\Debug\net5.0\lexicographicArrayOfCharComparer.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\bin\Debug\net5.0\lexicographicArrayOfCharComparer.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\bin\Debug\net5.0\lexicographicArrayOfCharComparer.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\bin\Debug\net5.0\lexicographicArrayOfCharComparer.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\refint\lexicographicArrayOfCharComparer.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\lexicographicArrayOfCharComparer.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\lexicographicArrayOfCharComparer\obj\Debug\net5.0\ref\lexicographicArrayOfCharComparer.dll

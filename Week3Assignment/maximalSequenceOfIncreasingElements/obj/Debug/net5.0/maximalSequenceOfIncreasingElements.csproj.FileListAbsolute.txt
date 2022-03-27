@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\bin\Debug\net5.0\maximalSequenceOfIncreasingElements.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\bin\Debug\net5.0\maximalSequenceOfIncreasingElements.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\bin\Debug\net5.0\maximalSequenceOfIncreasingElements.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\bin\Debug\net5.0\maximalSequenceOfIncreasingElements.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\bin\Debug\net5.0\maximalSequenceOfIncreasingElements.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\bin\Debug\net5.0\maximalSequenceOfIncreasingElements.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\refint\maximalSequenceOfIncreasingElements.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\maximalSequenceOfIncreasingElements.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maximalSequenceOfIncreasingElements\obj\Debug\net5.0\ref\maximalSequenceOfIncreasingElements.dll

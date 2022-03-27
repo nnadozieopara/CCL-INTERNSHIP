@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\bin\Debug\net5.0\maxSumOfKConsecutiveElement.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\bin\Debug\net5.0\maxSumOfKConsecutiveElement.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\bin\Debug\net5.0\maxSumOfKConsecutiveElement.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\bin\Debug\net5.0\maxSumOfKConsecutiveElement.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\bin\Debug\net5.0\maxSumOfKConsecutiveElement.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\bin\Debug\net5.0\maxSumOfKConsecutiveElement.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\refint\maxSumOfKConsecutiveElement.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\maxSumOfKConsecutiveElement.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\maxSumOfKConsecutiveElement\obj\Debug\net5.0\ref\maxSumOfKConsecutiveElement.dll

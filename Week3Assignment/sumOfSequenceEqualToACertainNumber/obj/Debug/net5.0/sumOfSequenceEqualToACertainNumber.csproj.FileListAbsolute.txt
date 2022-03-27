@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\bin\Debug\net5.0\sumOfSequenceEqualToACertainNumber.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\bin\Debug\net5.0\sumOfSequenceEqualToACertainNumber.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\bin\Debug\net5.0\sumOfSequenceEqualToACertainNumber.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\bin\Debug\net5.0\sumOfSequenceEqualToACertainNumber.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\bin\Debug\net5.0\sumOfSequenceEqualToACertainNumber.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\bin\Debug\net5.0\sumOfSequenceEqualToACertainNumber.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\refint\sumOfSequenceEqualToACertainNumber.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\sumOfSequenceEqualToACertainNumber.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sumOfSequenceEqualToACertainNumber\obj\Debug\net5.0\ref\sumOfSequenceEqualToACertainNumber.dll

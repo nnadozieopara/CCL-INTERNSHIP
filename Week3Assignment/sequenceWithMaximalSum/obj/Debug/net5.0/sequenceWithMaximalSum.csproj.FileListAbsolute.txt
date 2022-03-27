@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\bin\Debug\net5.0\sequenceWithMaximalSum.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\bin\Debug\net5.0\sequenceWithMaximalSum.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\bin\Debug\net5.0\sequenceWithMaximalSum.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\bin\Debug\net5.0\sequenceWithMaximalSum.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\bin\Debug\net5.0\sequenceWithMaximalSum.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\bin\Debug\net5.0\sequenceWithMaximalSum.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\refint\sequenceWithMaximalSum.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\sequenceWithMaximalSum.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\sequenceWithMaximalSum\obj\Debug\net5.0\ref\sequenceWithMaximalSum.dll

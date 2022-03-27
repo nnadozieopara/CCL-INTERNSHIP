@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "equalArrayChecker/1.0.0": {
+        "runtime": {
+          "equalArrayChecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "equalArrayChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
