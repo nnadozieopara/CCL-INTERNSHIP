@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\bin\Debug\net5.0\primeNumbersBetween1and10000000000.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\bin\Debug\net5.0\primeNumbersBetween1and10000000000.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\bin\Debug\net5.0\primeNumbersBetween1and10000000000.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\bin\Debug\net5.0\primeNumbersBetween1and10000000000.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\bin\Debug\net5.0\primeNumbersBetween1and10000000000.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\bin\Debug\net5.0\primeNumbersBetween1and10000000000.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\refint\primeNumbersBetween1and10000000000.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\primeNumbersBetween1and10000000000.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\Week3Assignment\primeNumbersBetween1and10000000000\obj\Debug\net5.0\ref\primeNumbersBetween1and10000000000.dll
