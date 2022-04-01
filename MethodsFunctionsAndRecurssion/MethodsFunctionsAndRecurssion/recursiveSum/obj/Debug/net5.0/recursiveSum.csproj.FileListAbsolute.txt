@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\bin\Debug\net5.0\recursiveSum.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\bin\Debug\net5.0\recursiveSum.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\bin\Debug\net5.0\recursiveSum.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\bin\Debug\net5.0\recursiveSum.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\bin\Debug\net5.0\recursiveSum.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\bin\Debug\net5.0\recursiveSum.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\refint\recursiveSum.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\recursiveSum.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\recursiveSum\obj\Debug\net5.0\ref\recursiveSum.dll

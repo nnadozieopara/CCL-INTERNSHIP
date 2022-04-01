@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\bin\Debug\net5.0\FactorialOfANumber.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\refint\FactorialOfANumber.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\FactorialOfANumber.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\FactorialOfANumber\obj\Debug\net5.0\ref\FactorialOfANumber.dll

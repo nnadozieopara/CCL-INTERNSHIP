@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\bin\Debug\net5.0\SolveQuadraticEquation.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\bin\Debug\net5.0\SolveQuadraticEquation.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\bin\Debug\net5.0\SolveQuadraticEquation.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\bin\Debug\net5.0\SolveQuadraticEquation.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\bin\Debug\net5.0\SolveQuadraticEquation.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\bin\Debug\net5.0\SolveQuadraticEquation.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\refint\SolveQuadraticEquation.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\SolveQuadraticEquation.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\SolveQuadraticEquation\obj\Debug\net5.0\ref\SolveQuadraticEquation.dll

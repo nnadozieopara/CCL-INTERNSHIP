@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\bin\Debug\net5.0\StringCharacter.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\bin\Debug\net5.0\StringCharacter.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\bin\Debug\net5.0\StringCharacter.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\bin\Debug\net5.0\StringCharacter.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\bin\Debug\net5.0\StringCharacter.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\bin\Debug\net5.0\StringCharacter.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\refint\StringCharacter.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\StringCharacter.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\StringCharacter\obj\Debug\net5.0\ref\StringCharacter.dll

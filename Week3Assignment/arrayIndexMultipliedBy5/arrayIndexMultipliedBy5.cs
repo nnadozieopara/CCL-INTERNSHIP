@@ -15,9 +15,9 @@ namespace arrayIndexMultipliedBy5
             for (int i = 0; i < length; i++)
             {
                 myArray[i] = 5 * i;
-                if (i<length - 1)
+                if (i < length - 1)
                 {
-                    Console.Write(myArray[i] +", ");
+                    Console.Write(myArray[i] + ", ");
 
                 }
                 else
@@ -25,6 +25,10 @@ namespace arrayIndexMultipliedBy5
                     Console.Write(myArray[i] + "]");
                 }
             }
+
+
         }
+
+        
     }
 }

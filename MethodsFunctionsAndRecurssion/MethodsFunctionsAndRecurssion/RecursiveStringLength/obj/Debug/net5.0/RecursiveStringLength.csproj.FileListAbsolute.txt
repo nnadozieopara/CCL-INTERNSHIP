@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\bin\Debug\net5.0\RecursiveStringLength.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\bin\Debug\net5.0\RecursiveStringLength.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\bin\Debug\net5.0\RecursiveStringLength.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\bin\Debug\net5.0\RecursiveStringLength.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\bin\Debug\net5.0\RecursiveStringLength.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\bin\Debug\net5.0\RecursiveStringLength.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\refint\RecursiveStringLength.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\RecursiveStringLength.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\MethodsFunctionsAndRecurssion\MethodsFunctionsAndRecurssion\RecursiveStringLength\obj\Debug\net5.0\ref\RecursiveStringLength.dll
