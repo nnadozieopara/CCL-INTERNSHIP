@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 
 namespace RandomNumbersInARange
@@ -30,13 +29,11 @@ namespace RandomNumbersInARange
         static void PrintRandomNumbersInARange(int startValue, int EndValue, int checkValue)
         {
             var rand = new Random();
-            //List<int> randomNumbers = new List<int>();
             Stopwatch sw = Stopwatch.StartNew();
             sw.Start();
             int number = rand.Next(startValue, EndValue);
             while (number != checkValue)
             {
-               // randomNumbers.Add(number);
                 Console.WriteLine(number);
                 number = rand.Next(startValue, EndValue);
             }
