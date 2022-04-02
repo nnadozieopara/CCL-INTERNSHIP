@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveQuadraticEquation", "SolveQuadraticEquation\SolveQuadraticEquation.csproj", "{F0002D61-81DB-4BB3-8FD0-953A91B313AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolveQuadraticEquation", "SolveQuadraticEquation\SolveQuadraticEquation.csproj", "{F0002D61-81DB-4BB3-8FD0-953A91B313AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialOfANumber", "FactorialOfANumber\FactorialOfANumber.csproj", "{B754F204-0908-4BA4-989C-F374F86129E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactorialOfANumber", "FactorialOfANumber\FactorialOfANumber.csproj", "{B754F204-0908-4BA4-989C-F374F86129E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCharacter", "StringCharacter\StringCharacter.csproj", "{36FD04BC-002B-41CC-AF43-10580FC3D61A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringCharacter", "StringCharacter\StringCharacter.csproj", "{36FD04BC-002B-41CC-AF43-10580FC3D61A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWords", "NumberToWords\NumberToWords.csproj", "{A6E36B46-C020-4832-8B4C-2B0700484B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToWords", "NumberToWords\NumberToWords.csproj", "{A6E36B46-C020-4832-8B4C-2B0700484B62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursiveSum", "recursiveSum\recursiveSum.csproj", "{B8A2F470-25CA-46DA-A231-E417686E2AA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recursiveSum", "recursiveSum\recursiveSum.csproj", "{B8A2F470-25CA-46DA-A231-E417686E2AA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveStringLength", "RecursiveStringLength\RecursiveStringLength.csproj", "{AB22A902-EBC0-46EB-AE3B-7D796480CDE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursiveStringLength", "RecursiveStringLength\RecursiveStringLength.csproj", "{AB22A902-EBC0-46EB-AE3B-7D796480CDE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursivePrimeNumbersInARange", "RecursivePrimeNumbersInARange\RecursivePrimeNumbersInARange.csproj", "{0A28BB57-4A39-42FD-A230-8CCEA89CE338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursivePrimeNumbersInARange", "RecursivePrimeNumbersInARange\RecursivePrimeNumbersInARange.csproj", "{0A28BB57-4A39-42FD-A230-8CCEA89CE338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbersInARange", "RandomNumbersInARange\RandomNumbersInARange.csproj", "{80B154B5-00C0-40B8-A3F2-C1CE2C67226A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomNumbersInARange", "RandomNumbersInARange\RandomNumbersInARange.csproj", "{80B154B5-00C0-40B8-A3F2-C1CE2C67226A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedRandomNumbers", "RepeatedRandomNumbers\RepeatedRandomNumbers.csproj", "{3B6F4141-FA39-4BEA-B8C1-6090D0521322}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{80B154B5-00C0-40B8-A3F2-C1CE2C67226A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80B154B5-00C0-40B8-A3F2-C1CE2C67226A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80B154B5-00C0-40B8-A3F2-C1CE2C67226A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6F4141-FA39-4BEA-B8C1-6090D0521322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6F4141-FA39-4BEA-B8C1-6090D0521322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6F4141-FA39-4BEA-B8C1-6090D0521322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6F4141-FA39-4BEA-B8C1-6090D0521322}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
