@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\bin\Debug\net5.0\AnimalProject.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\bin\Debug\net5.0\AnimalProject.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\bin\Debug\net5.0\AnimalProject.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\bin\Debug\net5.0\AnimalProject.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\bin\Debug\net5.0\AnimalProject.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\bin\Debug\net5.0\AnimalProject.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\refint\AnimalProject.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\AnimalProject.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\AnimalProject\obj\Debug\net5.0\ref\AnimalProject.dll

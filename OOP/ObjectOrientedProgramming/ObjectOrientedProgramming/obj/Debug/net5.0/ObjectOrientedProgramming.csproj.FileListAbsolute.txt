@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\bin\Debug\net5.0\ObjectOrientedProgramming.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\refint\ObjectOrientedProgramming.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ObjectOrientedProgramming.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\OOP\ObjectOrientedProgramming\ObjectOrientedProgramming\obj\Debug\net5.0\ref\ObjectOrientedProgramming.dll

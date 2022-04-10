@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\bin\Debug\net5.0\HumanProject.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\bin\Debug\net5.0\HumanProject.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\bin\Debug\net5.0\HumanProject.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\bin\Debug\net5.0\HumanProject.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\bin\Debug\net5.0\HumanProject.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\bin\Debug\net5.0\HumanProject.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\refint\HumanProject.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\HumanProject.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\HumanProject\obj\Debug\net5.0\ref\HumanProject.dll

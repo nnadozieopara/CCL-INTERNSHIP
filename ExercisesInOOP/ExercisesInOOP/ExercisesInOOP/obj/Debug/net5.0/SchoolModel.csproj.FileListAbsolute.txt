@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\bin\Debug\net5.0\SchoolModel.exe
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\bin\Debug\net5.0\SchoolModel.deps.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\bin\Debug\net5.0\SchoolModel.runtimeconfig.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\bin\Debug\net5.0\SchoolModel.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\bin\Debug\net5.0\SchoolModel.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\bin\Debug\net5.0\SchoolModel.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\refint\SchoolModel.dll
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.pdb
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\SchoolModel.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\FrontEnd\CCL Project\CCL Internship\ExercisesInOOP\ExercisesInOOP\ExercisesInOOP\obj\Debug\net5.0\ref\SchoolModel.dll
